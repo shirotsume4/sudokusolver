@@ -4,7 +4,7 @@ https://qiita.com/haystacker/items/99029aa06573f3a32bf5 を大いに参考にさ
 
 これをcloneした後
 
-```uv install```
+```uv sync```
 
 でライブラリなどをインストール
 
